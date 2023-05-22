@@ -3,7 +3,7 @@
     Generates NFC with URL address data and outputs Flipper NFC "save" file
     this is a 5 min hack, No Guarantees
 
-    ./nfc_gen_url.py https://youtu.be/dQw4w9WgXcQ "Rick Roll" > rickroll.nfc
+    ./nfc_gen_url.py  https://www.tiktok.com/@michael_mayer666 "Rick Roll" > tiktok.nfc
 
     requires ndeflib
 
